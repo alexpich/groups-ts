@@ -2,7 +2,7 @@ This project was created using Expo.
 
 ## Groups
 
-Groups is a mobile app for iOs and Android developed with React Native. Groups helps you find people with similar interests. Users can schedule meetups or use the messaging feature to just chat.
+Groups is a mobile app for iOS and Android developed with React Native. Groups helps you find people with similar interests. Users can schedule meetups or use the messaging feature to just chat.
 
 ## Available Scripts
 
